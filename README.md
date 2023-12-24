@@ -8,7 +8,9 @@ Mis soluciones para ambos problemas son las siguientes:
 
 1.- Creación de una NUEVA cuenta Oracle Cloud Infrastructure, es decir, ahora poseo dos cuentas en OCI. La primera cuenta es la que utilicé para realizar la formación OCI y en la cual el crédito de 30 días ha vencido. La segunda cuenta con la cual estoy realizando la formación de DataScience, posee habilitado el crédito de 30 días. A la fecha llevo consumido el siguiente monto:
 
-![Gastos OCI](./img/GastosDataScience.png)
+<p align="center">
+<img src='./img/GastosDataScience.png' alt='Gastos OCI'>
+</p>
 
 2.-Examinando la documentación observo que la librería automl ya no esta incluida en ads sino en otro kernel llamado **Oracle AutoML and Model Explanation for Python 3.8**. Cambiando de kernel al anterior y ejecutando el código del curso observo que el método utilizado NO existe mostrándose la siguiente excepción:
 
